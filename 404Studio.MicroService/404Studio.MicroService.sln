@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{E53B5026-3E9D-4E73-BD1E-86B75E6ED2A0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "404Studio.MicroService.Api", "SolutionItems\404Studio.MicroService.Api\404Studio.MicroService.Api.csproj", "{832E7A25-72AA-443A-A133-421B68257C89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{832E7A25-72AA-443A-A133-421B68257C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832E7A25-72AA-443A-A133-421B68257C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832E7A25-72AA-443A-A133-421B68257C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832E7A25-72AA-443A-A133-421B68257C89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{832E7A25-72AA-443A-A133-421B68257C89} = {E53B5026-3E9D-4E73-BD1E-86B75E6ED2A0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AE463F3-E4BA-46C3-8780-7BE415D647DB}
+	EndGlobalSection
+EndGlobal
